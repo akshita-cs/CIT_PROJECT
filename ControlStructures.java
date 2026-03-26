@@ -6,7 +6,8 @@ public class ControlStructures {
         // System.out.println("Enter the age: ");
         // int age = sc.nextInt();
         // if(age>=18)
-        //     System.out.println("Eligible to vote. ");
+        //     System.out.printgit push
+        // ln("Eligible to vote. ");
         // else
         //     System.out.println("Not eligible to vote.");
         Scanner sc = new Scanner(System.in);
