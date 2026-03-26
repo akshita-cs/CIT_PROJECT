@@ -15,6 +15,7 @@ public class NestedIf {
         }
         else{
             System.out.println("Not eligible to vote.");
-        }           
+        }        
+        sc.close();   
     }
 }

@@ -15,5 +15,6 @@ public class IfElseIfLadder {
             System.out.println("D grade");
         else
             System.out.println("Fail");
+        sc.close();
     }
 }

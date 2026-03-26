@@ -12,6 +12,6 @@ public class UnitsIfElse {
             System.out.println("Amount to be paid: " + (units * d));
         else
             System.out.println("Amount to be paid: " + (units * e));
-
+        sc.close();
     }
 }

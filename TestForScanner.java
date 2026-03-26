@@ -5,6 +5,7 @@ public class TestForScanner {
         System.out.println("Enter integer value: ");
         int data = sc.nextInt();
         System.out.println("Data fetched: "+data);
+        sc.close();
     }
     
 }

@@ -6,10 +6,9 @@ public class ControlStructures {
         // System.out.println("Enter the age: ");
         // int age = sc.nextInt();
         // if(age>=18)
-        //     System.out.printgit push
-        // ln("Eligible to vote. ");
+        //System.out.println("Eligible to vote. ");
         // else
-        //     System.out.println("Not eligible to vote.");
+        // System.out.println("Not eligible to vote.");
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter first number: ");
         int a = sc.nextInt();
@@ -19,6 +18,7 @@ public class ControlStructures {
             System.out.println("a is the largest");
         else
             System.out.println("b is the largest");
+        sc.close();
     }
     
 }

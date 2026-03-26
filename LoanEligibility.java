@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LoanEligibilty {
+public class LoanEligibility {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter age of the person: ");
@@ -13,5 +13,6 @@ public class LoanEligibilty {
             System.out.println("Person is eligible for getting loan.");
         else
             System.out.println("Person is not eligible for getting loan.");
+        sc.close();
     }
 }
