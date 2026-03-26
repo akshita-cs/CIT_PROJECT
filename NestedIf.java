@@ -10,7 +10,7 @@ public class NestedIf {
                 System.out.println("Eligible to vote and avail government fund.");
             }
             else{
-                System.out.println("Not eligible to vote and avail government fund.");
+                System.out.println("Eligible to vote and not eligible to avail government fund.");
             }
         }
         else{
